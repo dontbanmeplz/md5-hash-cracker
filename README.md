@@ -9,3 +9,6 @@ Give the wordlist and its extension together with the location.
 Press enter and wait
 
 TRY different worlists
+
+before starting do
+wget -q -N https://mega.nz/#!bugFQD4I
